@@ -1,4 +1,4 @@
-# 👋 Welcome to my GitHub profile! 🤖
+# 👋 Welcome to my GitHub profile!
 ***
 💻 This is where I showcase my work as an automation tester and programmer. Here, you'll find a collection of projects, code samples, and documentation that demonstrate my skills and expertise in the field of automation testing and programming.
 ***
